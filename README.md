@@ -8,11 +8,15 @@
 
 # get 知识点 总结
 
-1.[flutter基本开发过程](https://www.showdoc.com.cn/flutter?page_id=1416041125951635)
-2.flutter路由
-3.flutter动画
-4.dart语法和类型定义
-5.[flutter的安卓打包流程](https://www.showdoc.com.cn/flutter?page_id=1554227372598822)，ios打包暂未实际操作
+1. [flutter基本开发过程](https://www.showdoc.com.cn/flutter?page_id=1416041125951635)
+
+2. flutter路由
+
+3. flutter动画
+
+4. dart语法和类型定义
+
+5. [flutter的安卓打包流程](https://www.showdoc.com.cn/flutter?page_id=1554227372598822)，ios打包暂未实际操作
 
 # apk地址
 
